@@ -1,4 +1,4 @@
-_G.speed = 100
+_G.speed = 1000
 _G.enabled = false
 
 local UserInputService = game:GetService("UserInputService")
